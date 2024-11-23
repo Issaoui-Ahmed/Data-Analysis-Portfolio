@@ -15,7 +15,6 @@ This portfolio highlights my knowledge, skills, and expertise in data related ar
 2. [Technical Projects](#technical-projects)
    - [Data Collection and Preparation](#data-collection-and-preparation)
      - [Data Extraction](#data-extraction)
-     - [ETL Pipelines](#etl-pipelines)
      - [Database Design and Development](#database-design-and-development)
    - [Data Analysis and Insights](#data-analysis-and-insights)
      - [Python for Analysis](#python-for-analysis)
