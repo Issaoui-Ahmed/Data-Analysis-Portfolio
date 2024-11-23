@@ -19,18 +19,12 @@ This portfolio highlights my knowledge, skills, and expertise in data related ar
    - [Data Analysis and Insights](#data-analysis-and-insights)
      - [Python for Analysis](#python-for-analysis)
      - [R for Analysis](#r-for-analysis)
-     - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
    - [Data Visualization](#data-visualization)
-     - [Static Visualizations](#static-visualizations)
-     - [Interactive Visualizations](#interactive-visualizations)
-   - [Dashboard Development](#dashboard-development)
      - [Tableau Dashboards](#tableau-dashboards)
      - [Power BI Dashboards](#power-bi-dashboards)
-     - [Python Dashboards](#python-dashboards)
    - [Machine Learning and AI](#machine-learning-and-ai)
      - [Traditional Machine Learning](#traditional-machine-learning)
      - [Deep Learning](#deep-learning)
-     - [Model Deployment](#model-deployment)
 
 ## Innovative Projects
 This section showcases my most innovative and impactful projects. These are designed to demonstrate my ability to tackle complex, real-world problems using advanced tools and creative solutions.
@@ -43,7 +37,18 @@ Here, you’ll find projects focused on mastering specific tools and techniques 
 - **[Yahoo Finance Scraping Tutorial](https://github.com/Issaoui-Ahmed/YFinance-Scraping-Tutorial)**  
   - **Description**: Extracted product pricing data from e-commerce websites for trend analysis.  
   - **Tools**: Python (Scrapy, BeautifulSoup).
- #### Database Design and Development
+#### Database Design and Development
 - **[Database Design Project](https://github.com/Issaoui-Ahmed/Database-Design-Project)**  
   - **Description**: Extracted product pricing data from e-commerce websites for trend analysis.  
   - **Tools**: Python (Scrapy, BeautifulSoup).
+ ### Data Analysis and Insights
+  #### Python for Analysis
+  - **[Factors Behind Movies Success](https://github.com/Issaoui-Ahmed/Factors-Behind-Movie-Success.git)**  
+    - **Description**: Extracted product pricing data from e-commerce websites for trend analysis.  
+    - **Tools**: Python (Scrapy, BeautifulSoup).
+  #### R for Analysis
+  - **[Legendary Pokemon R Analysis](https://github.com/Issaoui-Ahmed/Legendary-Pokemon-R-Analysis.git)**  
+    - **Description**: Extracted product pricing data from e-commerce websites for trend analysis.  
+    - **Tools**: Python (Scrapy, BeautifulSoup).
+
+ 
