@@ -1,6 +1,6 @@
 # Data Portfolio - Ahmed Issaoui
 
-This portfolio highlights my knowledge, skills, and expertise in data related areas, showcasing a variety of projects categorized by specific skills.
+This portfolio highlights my knowledge, skills, and expertise in data related areas, showcasing a variety of projects.
 
 - **Email**: [issaoui.aa@gmail.com](issaoui.aa@gmail.com)
 - **LinkedIn**: [linkedin.com/ahmed-issaoui-044b4b1aa](https://www.linkedin.com/in/ahmed-issaoui-044b4b1aa/)
