@@ -43,3 +43,7 @@ Here, you’ll find projects focused on mastering specific tools and techniques 
 - **[Yahoo Finance Scraping Tutorial](https://github.com/Issaoui-Ahmed/YFinance-Scraping-Tutorial)**  
   - **Description**: Extracted product pricing data from e-commerce websites for trend analysis.  
   - **Tools**: Python (Scrapy, BeautifulSoup).
+ #### Database Design and Development
+- **[Database Design Project](https://github.com/Issaoui-Ahmed/Database-Design-Project)**  
+  - **Description**: Extracted product pricing data from e-commerce websites for trend analysis.  
+  - **Tools**: Python (Scrapy, BeautifulSoup).
