@@ -40,6 +40,7 @@ This section showcases my most innovative and impactful projects. These are desi
 Here, you’ll find projects focused on mastering specific tools and techniques fundamental to data workflows. These projects highlight my ability to apply core skills efficiently, solve common industry problems, and build a strong technical foundation.
 
 ### Data Collection and Preparation
-- **[Market Trends Web Scraper](https://github.com/your-repo-link)**  
+#### Data Extraction
+- **[Yahoo Finance Scraping Tutorial](https://github.com/Issaoui-Ahmed/YFinance-Scraping-Tutorial)**  
   - **Description**: Extracted product pricing data from e-commerce websites for trend analysis.  
   - **Tools**: Python (Scrapy, BeautifulSoup).
