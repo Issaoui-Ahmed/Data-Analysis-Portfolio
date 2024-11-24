@@ -29,6 +29,13 @@ This portfolio highlights my knowledge, skills, and expertise in data related ar
 ## Innovative Projects
 This section showcases my most innovative and impactful projects. These are designed to demonstrate my ability to tackle complex, real-world problems using advanced tools and creative solutions.
 
+<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png"> **Sentiment Analysis with 2-Step Classification**
+[Article](https://medium.com/@aissaoui2022/detecting-the-undetectable-a-2-step-approach-to-sentiment-analysis-4edd81999a01) - [Github](https://github.com/Issaoui-Ahmed/2-Step-Sentiment-Analysis)
+
+Developed a sentiment analysis model using a **2-step classification approach** to handle neutrality by evaluating positivity and negativity independently. Achieved a significant accuracy improvement (70%) on a challenging dataset of Algerian Arabic tweets, demonstrating the potential of this method for low-resource languages.
+
+#
+
 ## Technical Projects
 Here, you’ll find projects focused on mastering specific tools and techniques fundamental to data workflows. These projects highlight my ability to apply core skills efficiently, solve common industry problems, and build a strong technical foundation.
 
