@@ -11,7 +11,7 @@ This portfolio highlights my knowledge, skills, and expertise in data related ar
 - Selected and funded by CMU-Q’s Qatar Student-Initiated Undergraduate Research Program (QSIURP) for summer research.
 
 ## Table of Contents
-1. [Innovative Projects](#innovative-projects)
+1. [Innovation Highlights](#Innovation-Highlights)
 2. [Technical Projects](#technical-projects)
    - [Data Collection and Preparation](#data-collection-and-preparation)
      - [Data Extraction](#data-extraction)
@@ -26,8 +26,8 @@ This portfolio highlights my knowledge, skills, and expertise in data related ar
      - [Traditional Machine Learning](#traditional-machine-learning)
      - [Deep Learning](#deep-learning)
 
-## Innovative Projects
-This section showcases my most innovative and impactful projects. These are designed to demonstrate my ability to tackle complex, real-world problems using advanced tools and creative solutions.
+## Innovation Highlights
+Here, I share experiences from my professional and academic journey that highlight my ability to think creatively and execute innovative solutions. These blogs provide insight into my problem-solving process, challenges faced, and how I turned ideas into impactful outcomes.
 
 <img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png"> **Sentiment Analysis with 2-Step Classification**
 [Article](https://medium.com/@aissaoui2022/detecting-the-undetectable-a-2-step-approach-to-sentiment-analysis-4edd81999a01) - [Github](https://github.com/Issaoui-Ahmed/2-Step-Sentiment-Analysis)
