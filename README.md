@@ -29,12 +29,16 @@ This portfolio highlights my knowledge, skills, and expertise in data related ar
 ## Innovation Highlights
 Here, I share experiences from my professional and academic journey that highlight my ability to think creatively and execute innovative solutions. These blogs provide insight into my problem-solving process, challenges faced, and how I turned ideas into impactful outcomes.
 
-<img align="left" width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png"> **Sentiment Analysis with 2-Step Classification**
-[Article](https://medium.com/@aissaoui2022/detecting-the-undetectable-a-2-step-approach-to-sentiment-analysis-4edd81999a01) - [Github](https://github.com/Issaoui-Ahmed/2-Step-Sentiment-Analysis)
+|    |    |     |
+|----|----|-----|
+| <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png" alt="Blog 1"><br>[**Detecting the Undetectable**](https://medium.com/@aissaoui2022/detecting-the-undetectable-a-2-step-approach-to-sentiment-analysis-4edd81999a01) | <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png" alt="Blog 2"><br>[**Another Blog Title**](https://medium.com/@example/blog-2-link) | <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png" alt="Blog 3"><br>[**Yet Another Blog Title**](https://medium.com/@example/blog-3-link) |
 
-Developed a sentiment analysis model using a **2-step classification approach** to handle neutrality by evaluating positivity and negativity independently. Achieved a significant accuracy improvement (70%) on a challenging dataset of Algerian Arabic tweets, demonstrating the potential of this method for low-resource languages.
 
-#
+
+
+
+
+
 
 ## Technical Projects
 Here, you’ll find projects focused on mastering specific tools and techniques fundamental to data workflows. These projects highlight my ability to apply core skills efficiently, solve common industry problems, and build a strong technical foundation.
