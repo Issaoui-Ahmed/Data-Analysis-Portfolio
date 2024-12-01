@@ -31,7 +31,7 @@ Here, I share experiences from my professional and academic journey that highlig
 
 |    |    |     |
 |----|----|-----|
-| <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png" alt="Blog 1"><br>[**2-Step Sentiment Classification**](https://medium.com/@aissaoui2022/detecting-the-undetectable-a-2-step-approach-to-sentiment-analysis-4edd81999a01) | <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*lGFQ5hrKeX09bk6Y.jpeg" alt="Blog 2"><br>[**AI Hairstyle Recommendations**](https://medium.com/@example/blog-2-link) | <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png" alt="Blog 3"><br>[**Yet Another Blog Title**](https://medium.com/@example/blog-3-link) |
+| <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png" alt="Blog 1"><br>[**2-Step Sentiment Classification**](https://medium.com/@aissaoui2022/detecting-the-undetectable-a-2-step-approach-to-sentiment-analysis-4edd81999a01) | <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*lGFQ5hrKeX09bk6Y.jpeg" alt="Blog 2"><br>[**AI Hairstyle Recommendations**](https://medium.com/@aissaoui2022/my-journey-to-automating-hairstyle-recommendations-with-ai-1916c776ff37) | <img width="250" height="150" src="https://miro.medium.com/v2/resize:fit:828/format:webp/0*x25cu9cpsEcHc5Bp.png" alt="Blog 3"><br>[**Yet Another Blog Title**](https://medium.com/@example/blog-3-link) |
 
 
 
